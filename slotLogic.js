@@ -20,7 +20,7 @@ var q = new Image()
 q.src = 'images/qanim.png'
 
 var ten = new Image()
-ten.src = 'images/10anim.png'
+ten.src = 'https://github.com/AlbinGyllander/slot/blob/318cb3ef382e1a27fad8a99affbc52b1d32de7e0/images/10anim.png'
 
 //drawing the canvas that handles the spins
 var canvas = document.getElementById('canvas')
