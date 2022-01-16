@@ -2,25 +2,25 @@
 
 // Images are loaded in
 var bgr = new Image()
-bgr.src = 'images/bgrE.png'
+bgr.src = 'https://albingyllander.github.io/slot/images/bgrE.png'
 
 var face = new Image();
-face.src = 'https://github.com/AlbinGyllander/slot/blob/5e681411098e4beb41cd6b0e9f23fdd377a61972/images/faceanim.png'
+face.src = 'https://albingyllander.github.io/slot/images/faceanim.png'
 
 var j = new Image()
-j.src = 'https://github.com/AlbinGyllander/slot/blob/5e681411098e4beb41cd6b0e9f23fdd377a61972/images/janim.png'
+j.src = 'https://albingyllander.github.io/slot/images/janim.png'
 
 var k = new Image()
-k.src = 'https://github.com/AlbinGyllander/slot/blob/5e681411098e4beb41cd6b0e9f23fdd377a61972/images/kanim.png'
+k.src = 'https://albingyllander.github.io/slot/images/kanim.png'
 
 var k2 = new Image()
-k2.src = 'https://github.com/AlbinGyllander/slot/blob/5e681411098e4beb41cd6b0e9f23fdd377a61972/images/k2anim.png'
+k2.src = 'https://albingyllander.github.io/slot/images/k2anim.png'
 
 var q = new Image()
-q.src = 'https://github.com/AlbinGyllander/slot/blob/5e681411098e4beb41cd6b0e9f23fdd377a61972/images/qanim.png'
+q.src = 'https://albingyllander.github.io/slot/images/qanim.png'
 
 var ten = new Image()
-ten.src = 'https://github.com/AlbinGyllander/slot/blob/318cb3ef382e1a27fad8a99affbc52b1d32de7e0/images/10anim.png'
+ten.src = 'https://albingyllander.github.io/slot/images/10anim.png'
 
 //drawing the canvas that handles the spins
 var canvas = document.getElementById('canvas')
