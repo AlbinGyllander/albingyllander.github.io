@@ -5,19 +5,19 @@ var bgr = new Image()
 bgr.src = 'images/bgrE.png'
 
 var face = new Image();
-face.src = 'images/faceanim.png'
+face.src = 'https://github.com/AlbinGyllander/slot/blob/318cb3ef382e1a27fad8a99affbc52b1d32de7e0/images/faceanim.png'
 
 var j = new Image()
-j.src = 'images/janim.png'
+j.src = 'https://github.com/AlbinGyllander/slot/blob/318cb3ef382e1a27fad8a99affbc52b1d32de7e0/images/janim.png'
 
 var k = new Image()
-k.src = 'images/kanim.png'
+k.src = 'https://github.com/AlbinGyllander/slot/blob/318cb3ef382e1a27fad8a99affbc52b1d32de7e0/images/kanim.png'
 
 var k2 = new Image()
-k2.src = 'images/k2anim.png'
+k2.src = 'https://github.com/AlbinGyllander/slot/blob/318cb3ef382e1a27fad8a99affbc52b1d32de7e0/images/k2anim.png'
 
 var q = new Image()
-q.src = 'images/qanim.png'
+q.src = 'https://github.com/AlbinGyllander/slot/blob/318cb3ef382e1a27fad8a99affbc52b1d32de7e0/images/qanim.png'
 
 var ten = new Image()
 ten.src = 'https://github.com/AlbinGyllander/slot/blob/318cb3ef382e1a27fad8a99affbc52b1d32de7e0/images/10anim.png'
