@@ -2,7 +2,7 @@
 
 // Images are loaded in
 var bgr = new Image()
-bgr.src = 'albingyllander.github.io/slot/images/bgrE.png'
+bgr.src = 'https://albingyllander.github.io/slot/images/bgrE.png'
 
 var face = new Image();
 face.src = 'albingyllander.github.io/slot/images/faceanim.png'
